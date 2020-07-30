@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Montserrat", sans-serif;
+}
+
+.heavy-font {
+  font-weight: 500;
+}
+
+.medium-font {
+  font-weight: 400;
+}
+
+light-font {
+  font-weight: 300;
+}
+.logoblue {
+  color: #0063be;
+}
+
+.logodeepblue {
+  color: #004477;
+}
+
+.logogold {
+  color: #fec357;
+}
+
+.logodarkwebgold {
+  color: #f6a03b;
+}
+
+.logodarkpurple {
+  color: #472d5b;
+}
+
+.logolightpurple {
+  color: #8d4982;
+}
